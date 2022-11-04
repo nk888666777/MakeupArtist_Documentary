@@ -1,2 +1,1 @@
-# MakeupArtist_Documentary
-eProjects
+Repository contains PDF files for reviewing eProjects.
